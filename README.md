@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi there, I'm Nithesh Kumar Reddy Chityala
 
-<!--
-**chityalanithesh/chityalanithesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Data Engineer | Real-Time Pipelines | Cloud & Big Data Enthusiast**
 
-Here are some ideas to get you started:
+💡 I specialize in building scalable data pipelines using **Apache Spark**, **Kafka**, and **Python**, with deployments across **AWS**, **GCP**, and **Azure**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 **Latest Project**:  
+🔗 [global-streaming-analytics](https://github.com/chityalanithesh/global-streaming-analytics)  
+Built a real-time streaming pipeline with Kafka + Spark delivering 99.9% uptime and 40% faster dashboards.
+
+🛠️ **Tech Stack**:
+- Apache Spark Structured Streaming
+- Kafka | Python | Docker | GitHub Actions
+- Cloud: AWS, GCP, Azure
+
+📫 **Connect with me**:  
+[LinkedIn](https://www.linkedin.com/in/nithesh-kumar-reddy-chityala)
+
+🚀 Always exploring new ways to optimize data pipelines and cloud deployments!
